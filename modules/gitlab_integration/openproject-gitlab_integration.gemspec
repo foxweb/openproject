@@ -13,3 +13,4 @@ Gem::Specification.new do |s|
   s.add_dependency "openproject-webhooks"
   s.metadata['rubygems_mfa_required'] = 'true'
 end
+
